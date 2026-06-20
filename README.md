@@ -166,7 +166,7 @@ Example:
 
 # Dashboard Preview
 
----
+[Retail Sales Dashboard](https://github.com/jitenderayadav/online-retail-sales-customer-segmentation-analysis/blob/main/visuals.png?raw=true)
 
 # Key Findings
 
